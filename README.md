@@ -1,5 +1,5 @@
 
-# Survivability Assesment of 5G Network slicing During Massive Outages
+# Survivability Assesment of 5G Network Slicing During Massive Outages
 Authors: Marija Gajić, Stanislav Lange, Trond Vatten, Poul Heegaard, Marija Furdek  
 
 Contents: 
