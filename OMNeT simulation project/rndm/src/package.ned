@@ -1,0 +1,3 @@
+package rndm;
+
+@license(LGPL);

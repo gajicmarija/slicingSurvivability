@@ -1,0 +1,14 @@
+
+
+./runScript.sh -i omnetpp.ini -c  S7sli4noGuarantees80 -s 4
+./runScript.sh -i omnetpp.ini -c  S7sli4noGuarantees40 -s 4
+./runScript.sh -i omnetpp.ini -c  S7sli4noGuarantees30 -s 4
+./runScript.sh -i omnetpp.ini -c  S7sli4noGuarantees20 -s 4
+./runScript.sh -i omnetpp.ini -c  S7sli4noGuarantees2 -s 4
+
+
+
+
+
+
+

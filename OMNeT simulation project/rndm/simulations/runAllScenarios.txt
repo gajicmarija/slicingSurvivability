@@ -1,0 +1,94 @@
+./runScript1.sh -i omnetpp.ini -c S1NoDisNew -s  8
+./runScript1.sh -i omnetpp.ini -c S3sli8noGuaranteesV25  -s  8 
+./runScript1.sh -i omnetpp.ini -c S3sli8noGuaranteesV210  -s  8 
+./runScript1.sh -i omnetpp.ini -c S3sli8noGuaranteesV220  -s  8 
+./runScript1.sh -i omnetpp.ini -c S3sli8noGuaranteesV230  -s  8 
+./runScript1.sh -i omnetpp.ini -c S3sli8noGuaranteesV240  -s  8 
+./runScript1.sh -i omnetpp.ini -c S3sli8noGuaranteesV280  -s  8 
+./runScript1.sh -i omnetpp.ini -c S3sli8noGuaranteesV2100  -s  8 
+./runScript1.sh -i omnetpp.ini -c S4sli2noGuaranteesV25 -s 2 
+./runScript1.sh -i omnetpp.ini -c S4sli2noGuaranteesV210  -s  2 
+./runScript1.sh -i omnetpp.ini -c S4sli2noGuaranteesV220  -s  2 
+./runScript1.sh -i omnetpp.ini -c S4sli2noGuaranteesV230  -s  2 
+./runScript1.sh -i omnetpp.ini -c S4sli2noGuaranteesV240  -s  2 
+./runScript1.sh -i omnetpp.ini -c S4sli2noGuaranteesV280  -s  2 
+./runScript1.sh -i omnetpp.ini -c S4sli2noGuaranteesV2100 -s  4  
+./runScript1.sh -i omnetpp.ini -c S5sli4noGuaranteesNew5 -s  4 
+./runScript1.sh -i omnetpp.ini -c S5sli4noGuaranteesNew10 -s  4 
+./runScript1.sh -i omnetpp.ini -c S5sli4noGuarantees20  -s  4 
+./runScript1.sh -i omnetpp.ini -c S5sli4noGuarantees30  -s  4 
+./runScript1.sh -i omnetpp.ini -c S5sli4noGuarantees40  -s  4 
+./runScript1.sh -i omnetpp.ini -c S5sli4noGuarantees80  -s  4 
+./runScript1.sh -i omnetpp.ini -c S5sli4noGuaranteesNew100  -s  4 
+./runScript1.sh -i omnetpp.ini -c S6sli2noGuaranteesV25 -s  2 
+./runScript1.sh -i omnetpp.ini -c S6sli2noGuaranteesV210 -s  2 
+./runScript1.sh -i omnetpp.ini -c S6sli2noGuaranteesV220 -s  2 
+./runScript1.sh -i omnetpp.ini -c S6sli2noGuaranteesV230 -s  2 
+./runScript1.sh -i omnetpp.ini -c S6sli2noGuaranteesV240 -s  2 
+./runScript1.sh -i omnetpp.ini -c S6sli2noGuaranteesV280 -s  2 
+./runScript1.sh -i omnetpp.ini -c S6sli2noGuaranteesV2100 -s  2 
+./runScript1.sh -i omnetpp.ini -c S7sli4noGuaranteesNew5 -s  4 
+./runScript1.sh -i omnetpp.ini -c S7sli4noGuarantees10 -s  4 
+./runScript1.sh -i omnetpp.ini -c S7sli4noGuarantees20 -s  4 
+./runScript1.sh -i omnetpp.ini -c S7sli4noGuarantees30 -s  4 
+./runScript1.sh -i omnetpp.ini -c S7sli4noGuarantees40 -s  4 
+./runScript1.sh -i omnetpp.ini -c S7sli4noGuarantees80 -s  4 
+./runScript1.sh -i omnetpp.ini -c S7sli4noGuarantees100 -s  4
+./runScript1.sh -i omnetpp.ini -c S8sli8_4prio5 -s  8 
+./runScript1.sh -i omnetpp.ini -c S8sli8_4prio10 -s  8 
+./runScript1.sh -i omnetpp.ini -c S8sli8_4prio20 -s  8 
+./runScript1.sh -i omnetpp.ini -c S8sli8_4prio30 -s  8 
+./runScript1.sh -i omnetpp.ini -c S8sli8_4prio40 -s  8 
+./runScript1.sh -i omnetpp.ini -c S8sli8_4prio80 -s  8 
+./runScript1.sh -i omnetpp.ini -c S8sli8_4prio100 -s  8 
+./runScript1.sh -i omnetpp.ini -c S9sli4_3prio5 -s  4 
+./runScript1.sh -i omnetpp.ini -c S9sli4_3prio10 -s  4 
+./runScript1.sh -i omnetpp.ini -c S9sli4_3prio20 -s  4 
+./runScript1.sh -i omnetpp.ini -c S9sli4_3prio30 -s  4 
+./runScript1.sh -i omnetpp.ini -c S9sli4_3prio40 -s  4 
+./runScript1.sh -i omnetpp.ini -c S9sli4_3prio80 -s  4 
+./runScript1.sh -i omnetpp.ini -c S9sli4_3prio100 -s  4 
+./runScript1.sh -i omnetpp.ini -c S10sli4_2prio5 -s  4 
+./runScript1.sh -i omnetpp.ini -c S10sli4_2prio10 -s  4 
+./runScript1.sh -i omnetpp.ini -c S10sli4_2prio20 -s  4 
+./runScript1.sh -i omnetpp.ini -c S10sli4_2prio30 -s  4 
+./runScript1.sh -i omnetpp.ini -c S10sli4_2prio40 -s  4 
+./runScript1.sh -i omnetpp.ini -c S10sli4_2prio80 -s  4 
+./runScript1.sh -i omnetpp.ini -c S10sli4_2prio100 -s  4 
+./runScript1.sh -i omnetpp.ini -c S11sli8_3prio5 -s  8 
+./runScript1.sh -i omnetpp.ini -c S11sli8_3prio10 -s  8 
+./runScript1.sh -i omnetpp.ini -c S11sli8_3prio20 -s  8 
+./runScript1.sh -i omnetpp.ini -c S11sli8_3prio30 -s  8 
+./runScript1.sh -i omnetpp.ini -c S11sli8_3prio40 -s  8 
+./runScript1.sh -i omnetpp.ini -c S11sli8_3prio80 -s  8 
+./runScript1.sh -i omnetpp.ini -c S11sli8_3prio100 -s  8 
+./runScript1.sh -i omnetpp.ini -c S12sli4_3prio5 -s  4 
+./runScript1.sh -i omnetpp.ini -c S12sli4_3prio10 -s  4 
+./runScript1.sh -i omnetpp.ini -c S12sli4_3prio20 -s  4 
+./runScript1.sh -i omnetpp.ini -c S12sli4_3prio30 -s  4 
+./runScript1.sh -i omnetpp.ini -c S12sli4_3prio40 -s  4 
+./runScript1.sh -i omnetpp.ini -c S12sli4_3prio80 -s  4 
+./runScript1.sh -i omnetpp.ini -c S12sli4_3prio100 -s  4 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
