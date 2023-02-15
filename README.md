@@ -1,6 +1,7 @@
 
 # Survivability Assesment of 5G Network slicing During Massive Outages
 Authors: Marija Gajić, Stanislav Lange, Trond Vatten, Poul Heegaard, Marija Furdek
+
 Contents: 
 1. OMNeT++ simulation project - Contains all files needed for running the simulations of 10 scenarios.
 2. Mathematica notebook with survivability quanttification model and plots. 
